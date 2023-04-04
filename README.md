@@ -13,14 +13,9 @@ Com mais de uma década de experiência em tecnologia da informação, sou espec
   <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </div><br/>
 
-Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação. Me segue lá:
+Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-motta-74b91a44)
+ [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-motta-74b91a44)
 
 ##
-<div> 
-  <a </a> 
- 
-  ![Snake animation](https://github.com/jonathanmotta/jonathanmotta/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+![Snake animation](https://github.com/jonathanmotta/jonathanmotta/blob/output/github-contribution-grid-snake.svg)
