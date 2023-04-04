@@ -1,8 +1,6 @@
-## Olá! 🖐️
+### Olá! 🖐️
 Eu sou o Jonathan Motta especialista em testes automatizados de ponta a ponta.
 Com mais de uma década de experiência em tecnologia da informação, sou especializado em teste de software com skills em produtos.
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jonathan-motta-74b91a44)
 
 ![Motta GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathanmotta&show_icons=true&theme=dracula&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanmotta)](https://github.com/jonathanmotta/github-readme-stats)
@@ -15,4 +13,14 @@ Com mais de uma década de experiência em tecnologia da informação, sou espec
   <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </div><br/>
 
-Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
+Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação. Me segue lá:
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-motta-74b91a44)
+
+##
+<div> 
+  <a </a> 
+ 
+  ![Snake animation](https://github.com/jonathanmotta/jonathanmotta/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
