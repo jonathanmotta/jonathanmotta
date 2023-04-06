@@ -3,7 +3,7 @@ Eu sou o Jonathan Motta especialista em testes automatizados de ponta a ponta.
 Com mais de uma década de experiência em tecnologia da informação, sou especializado em teste de software com skills em produtos.
 
 ![Motta GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathanmotta&show_icons=true&theme=dracula&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanmotta&layout=compact&langs_count=7&theme=dracula&hide_border=true")
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanmotta&layout=compact&langs_count=7&theme=dracula&hide_border=true")
 
 <div style="display: inline_block">
   <img align="center" alt="windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
